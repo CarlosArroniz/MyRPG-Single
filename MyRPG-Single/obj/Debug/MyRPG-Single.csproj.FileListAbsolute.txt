@@ -1,0 +1,5 @@
+c:\users\caarroniz\documents\visual studio 2013\Projects\MyRPG-Single\MyRPG-Single\bin\Debug\MyRPG-Single.exe.config
+c:\users\caarroniz\documents\visual studio 2013\Projects\MyRPG-Single\MyRPG-Single\bin\Debug\MyRPG-Single.exe
+c:\users\caarroniz\documents\visual studio 2013\Projects\MyRPG-Single\MyRPG-Single\bin\Debug\MyRPG-Single.pdb
+c:\users\caarroniz\documents\visual studio 2013\Projects\MyRPG-Single\MyRPG-Single\obj\Debug\MyRPG-Single.exe
+c:\users\caarroniz\documents\visual studio 2013\Projects\MyRPG-Single\MyRPG-Single\obj\Debug\MyRPG-Single.pdb
